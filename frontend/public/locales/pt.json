@@ -1,0 +1,93 @@
+{
+  "homepage": {
+    "nav": {
+      "services": "Serviços",
+      "blog": "Blog",
+      "contact": "Contato",
+      "process": "Acompanhar Processo"
+    },
+    "header": {
+      "title": "Não existe evolução <br /> sem a <strong>mudança</strong>.",
+      "subtitle": "Aproveite a oportunidade para vir conhecer o encantador Luxemburgo. Aqui você conhecerá uma nova forma de viver.",
+      "button": "Eu quero ir"
+    },
+    "services": {
+      "title": "Podemos te ajudar",
+      "subtitle": "Estamos ansiosos para realizar este <strong>sonho</strong> com você."
+    },
+    "galery": {
+      "title": "Um lugar encantador",
+      "subtitle": "Temos certeza de que você irá <strong>amar</strong> Luxemburgo.",
+      "images": {
+        "left": {
+          "title": "Nome do lugar",
+          "subtitle": "Descrição do lugar"
+        },
+        "right": {
+          "title": "Nome do lugar",
+          "subtitle": "Descrição do lugar"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Temos o prazer e alegria de fazer parte desses <strong>momentos</strong>.",
+      "readMore": "Continuar lendo...",
+      "button": "Carregar mais conteúdo"
+    },
+    "contact": {
+      "title": "Estamos te esperando",
+      "subtitle": "Se você ficou com alguma dúvida e quer conversar melhor, entre em contato conosco.",
+      "button": "Enviar Mensagem",
+      "placeholders": {
+        "name": "Nome Completo",
+        "email": "Seu melhor E-mail",
+        "phone": "Seu melhor telefone",
+        "message": "Mensagem"
+      }
+    },
+    "footer": "Todos os direitos reservados"
+  },
+  "login": {
+    "title": "Acesse sua conta",
+    "register": "Crie sua conta agora",
+    "form": {
+      "email": {
+        "label": "E-Mail",
+        "placeholder": "Digite seu e-mail"
+      },
+      "password": {
+        "label": "Senha",
+        "placeholder": "Digite sua senha"
+      },
+      "button": "Entrar"
+    }
+  },
+  "register": {
+    "title": "Crie sua conta",
+    "login": "Ou faça login",
+    "form": {
+      "name": {
+        "label": "Nome e Sobrenome",
+        "placeholder": "Digite seu nome e sobrenome"
+      },
+      "email": {
+        "label": "E-Mail",
+        "placeholder": "Digite seu melhor e-mail"
+      },
+      "phone": {
+        "label": "Telefone ou Celular",
+        "placeholder": "Digite seu melhor telefone"
+      },
+      "password": {
+        "label": "Senha",
+        "placeholder": "Digite sua senha"
+      },
+      "password_confirmation": {
+        "label": "Confirme sua senha",
+        "placeholder": "Repita sua senha aqui"
+      },
+      "button": "Registrar"
+    }
+  }
+}

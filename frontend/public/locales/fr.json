@@ -1,0 +1,94 @@
+{
+  "homepage": {
+    "nav": {
+      "services": "Nos prestations",
+      "blog": "Blogue",
+      "contact": "Mon compte",
+      "process": "Suivez le processus"
+    },
+    "header": {
+      "title": "Il n'y a pas d'évolution<br />sans le <strong>changement</strong>.",
+      "subtitle": "Profitez-en pour venir découvrir le charmant Luxembourg. Vous découvrirez ici un nouveau mode de vie.",
+      "button": "Je veux y aller"
+    },
+    "services": {
+      "title": "nous pouvons vous aider",
+      "subtitle": "Nous sommes impatients de réaliser ce <strong>rêve</strong> avec vous."
+    },
+    "galery": {
+      "title": "Un endroit charmant",
+      "subtitle": "Nous sommes sûrs que vous <strong>aimerez</strong> le Luxembourg.",
+      "images": {
+        "left": {
+          "title": "Nom du lieu",
+          "subtitle": "Description du lieu"
+        },
+        "right": {
+          "title": "Nom du lieu",
+          "subtitle": "Description du lieu"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blogue",
+      "subtitle": "Nous sommes ravis et heureux de faire partie de ces <strong>moments</strong>.",
+      "readMore": "Continuer la lecture ...",
+      "button": "Charger plus de contenu"
+    },
+    "contact": {
+      "title": "Nous vous attendons",
+      "subtitle": "Si vous avez des questions et souhaitez mieux parler, contactez-nous.",
+      "button": "Envoyer un message",
+      "placeholders": {
+        "name": "Nom complet",
+        "email": "Votre meilleur email",
+        "phone": "Votre meilleur téléphone",
+        "message": "Publier"
+      }
+    },
+    "footer": "Tous droits réservés"
+  },
+  "login": {
+    "title": "Accédez à votre compte",
+    "register": "Créez votre compte maintenant",
+    "form": {
+      "email": {
+        "label": "E-Mail",
+        "placeholder": "Entrez votre email"
+      },
+      "password": {
+        "label": "Passe",
+        "placeholder": "Entrez votre mot de passe"
+      },
+      "button": "INSCRIVEZ-VOUS"
+    }
+  },
+  "register": {
+    "title": "Créez votre compte",
+    "login": "Ou connectez-vous",
+    "form": {
+      "name": {
+        "label": "Prénom et nom",
+        "placeholder": "Entrez votre prénom et nom"
+      },
+      "email": {
+        "label": "Courriel",
+        "placeholder": "Entrez votre meilleur e-mail"
+      },
+      "phone": {
+        "label": "Téléphone ou cellulaire",
+        "placeholder": "Entrez votre meilleur téléphone"
+      },
+      "password": {
+        "label": "Mot de passe",
+        "placeholder": "Entrez votre mot de passe"
+      },
+      "password_confirmation": {
+        "label": "Confirmez votre mot de passe",
+        "placeholder": "Répétez votre mot de passe ici"
+      },
+      "button": "S'inscrire"
+    }
+  }
+  
+}

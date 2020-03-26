@@ -1,0 +1,3 @@
+release: node ace migration:rollback --force; node ace migration:run --force; node ace seed;
+web: node ace kue:listen; yarn start;
+

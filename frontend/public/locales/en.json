@@ -1,0 +1,94 @@
+{
+  "homepage": {
+    "nav": {
+      "services": "Services",
+      "blog": "Blog",
+      "contact": "Contact",
+      "process": "Follow Process"
+    },
+    "header": {
+      "title": "There is no evolution<br />without the <strong>change</strong>.",
+      "subtitle": "Take the opportunity to come and discover charming Luxembourg. Here you will discover a new way of living.",
+      "button": "I wanna go"
+    },
+    "services": {
+      "title": "we can help you",
+      "subtitle": "We look forward to making this <strong>dream</strong> come true with you."
+    },
+    "galery": {
+      "title": "A charming place",
+      "subtitle": "We are sure that you will <strong>love</strong> Luxembourg.",
+      "images": {
+        "left": {
+          "title": "Place name",
+          "subtitle": "Description of the place"
+        },
+        "right": {
+          "title": "Place name",
+          "subtitle": "Description of the place"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "We are pleased and happy to be part of these <strong>moments</strong>.",
+      "readMore": "Continue reading ...",
+      "button": "Load more content"
+    },
+    "contact": {
+      "title": "We are waiting for you",
+      "subtitle": "If you have any questions and want to talk better, contact us.",
+      "button": "Send Message",
+      "placeholders": {
+        "name": "Full name",
+        "email": "Your best email",
+        "phone": "Your best phone",
+        "message": "Message"
+      }
+    },
+    "footer": "All rights reserved"
+  },
+  "login": {
+    "title": "Access your account",
+    "register": "Create your account now",
+    "form": {
+      "email": {
+        "label": "E-Mail",
+        "placeholder": "Type your e-mail"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Type your password"
+      },
+      "button": "Log in"
+    }
+  },
+  "register": {
+    "title": "Create your account",
+    "login": "Or login",
+    "form": {
+      "name": {
+        "label": "Name and surname",
+        "placeholder": "Enter your first and last name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter your best email"
+      },
+      "phone": {
+        "label": "Phone or Cell",
+        "placeholder": "Enter your best phone"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Type your password"
+      },
+      "password_confirmation": {
+        "label": "Confirm your password",
+        "placeholder": "Repeat your password here"
+      },
+      "button": "Register"
+    }
+  }
+  
+}
