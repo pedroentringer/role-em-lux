@@ -9,7 +9,7 @@ import Button from '../Button';
 const stylesForm = {backgroundColor: "#fafafa", border: "0.3px solid rgba(0,0,0,0.3)", width: 300}
 
 interface Props {
-  handleLogin: () => void
+  handleLogin: () => void;
 }
 
 const Register: React.FC<Props> = props => {

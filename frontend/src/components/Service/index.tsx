@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react'
 
-import * as Icons from "react-icons/fa";
-import { IconType } from "react-icons/lib/cjs";
+import * as Icons from 'react-icons/fa'
+import { IconType } from 'react-icons/lib/cjs'
 
-import { Container, IconCard } from "./styles";
-import Button from "../Button";
+import { Container, IconCard } from './styles'
+import Button from '../Button'
 
 interface Props {
   service: {
@@ -16,16 +16,16 @@ interface Props {
 }
 
 const getIcon = (name: string): IconType => {
-  const icons = Object.values(Icons);
-  const icon = icons.find(icon => icon.name === name);
+  const icons = Object.values(Icons)
+  const icon = icons.find(icon => icon.name === name)
 
-  if (icon) return icon;
+  if (icon) return icon
 
-  return Icons["FaExclamationCircle"];
-};
+  return Icons.FaExclamationCircle
+}
 
 const Service: React.FC<Props> = props => {
-  const Icon = getIcon(props.service.icon);
+  const Icon = getIcon(props.service.icon)
 
   return (
     <Container className="col">
@@ -36,7 +36,7 @@ const Service: React.FC<Props> = props => {
       <p>{props.service.description}</p>
       <Button text="Quero saber mais" icon />
     </Container>
-  );
-};
+  )
+}
 
-export default Service;
+export default Service

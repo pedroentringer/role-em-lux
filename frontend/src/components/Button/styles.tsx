@@ -5,7 +5,6 @@ interface ButtonProps {
 }
 
 export const ButtonStyled = styled.button<ButtonProps>`
-  width: fit-content;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,10 +17,25 @@ export const ButtonStyled = styled.button<ButtonProps>`
   outline: none;
   font-weight: bold;
   opacity: 1;
-  transition: opacity 0.1s;
+  transition:  opcity 1s;
+  -moz-transition:  opcity 1s;
+  -webkit-transition:  opcity 1s;
+  -o-transition:  opcity 1s;
+  -ms-transition:  opcity 1s;
 
   :hover {
     opacity: 0.9;
-    transition: opacity 0.1s;
   }
+
+  @keyframes spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .spin{
+    animation: spin 1s linear infinite;
+    font-size: 18px;
+  }
+
 `;

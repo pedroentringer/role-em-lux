@@ -44,7 +44,9 @@
         "email": "Your best email",
         "phone": "Your best phone",
         "message": "Message"
-      }
+      },
+      "success": "Email successfully sent.",
+      "error": "Failed to send your email, please try again."
     },
     "footer": "All rights reserved"
   },

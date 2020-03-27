@@ -44,7 +44,9 @@
         "email": "Seu melhor E-mail",
         "phone": "Seu melhor telefone",
         "message": "Mensagem"
-      }
+      },
+      "success": "E-mail enviado com sucesso.",
+      "error": "Falha ao enviar seu e-mail, tente novamente."
     },
     "footer": "Todos os direitos reservados"
   },
